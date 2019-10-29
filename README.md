@@ -1,6 +1,4 @@
 # AboutMe
-# B
-
 # BEATRICE PINETTI
 
  E-mail:  [bep222@lehigh.edu](mailto:bep222@lehigh.edu)
